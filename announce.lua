@@ -1,1 +1,1 @@
-return "Announce:\nJoin The discord."
+return "Announce:"
