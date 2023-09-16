@@ -1,1 +1,1 @@
-return "Announce:"
+return ""
